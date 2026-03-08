@@ -12,7 +12,7 @@ from datetime import datetime
 
 load_dotenv()
 
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = st.secrets.get("OPENAI_API_KEY", os.getenv("OPENAI_API_KEY"))
 
 st.set_page_config(
     page_title="PromptLab",
