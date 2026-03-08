@@ -1,5 +1,9 @@
 # PromptLab 🧪
 
+## Live Demo
+
+https://promptlab-mathewmorford25.streamlit.app
+
 PromptLab is an AI-powered prompt optimization and evaluation tool built with Streamlit and OpenAI.
 
 ## Features
