@@ -6,6 +6,8 @@ https://promptlab-mathewmorford25.streamlit.app
 
 PromptLab is an AI-powered prompt optimization and evaluation tool built with Streamlit and OpenAI.
 
+API keys are stored securely using Streamlit Secrets and are not included in the repository.
+
 ## Features
 
 - Optimize prompts into 3 improved versions
